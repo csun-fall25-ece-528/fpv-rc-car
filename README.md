@@ -4,7 +4,7 @@
 This repository includes the Arduino project files and documentation for the final project for  **ECE 528** class (Robotics and Embedded Systems) from **Fall 2025** at **California State University, Northridge (CSUN)**.
 
 
-* Click on **[Final Project Report](docs/Final_Project_Report.pdf)** to view the report that contains additional details on system architecture and testing.
+* Click on **[Final Project Report](docs/Final_Project_Report.docx)** to view the report that contains additional details on system architecture and testing.
 * **[Click here to watch a short video demonstration]** *([Link to your YouTube video](https://www.youtube.com/watch?v=tOG5r1Idgxo))*.
 * **[Click here to view the presentation slides](docs/FPV_RC_Car_Presentation.pptx)**.
 
