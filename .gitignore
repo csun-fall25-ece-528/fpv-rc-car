@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+*.mp4
+*.mov
+*.pdf
+*.docx
+*.zip
+*.exe
+
