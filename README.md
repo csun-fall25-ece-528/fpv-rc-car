@@ -3,9 +3,9 @@
 
 This repository includes the Arduino project files and documentation for the final project for  **ECE 528** class (Robotics and Embedded Systems) from **Fall 2025** at **California State University, Northridge (CSUN)**.
 
-* Check out the `firmware/` directory to view the Arduino source code (`.ino` and `.h` files).
+
 * Click on **[Final Project Report](docs/Final_Project_Report.pdf)** to view the report that contains additional details on system architecture and testing.
-* **[Click here to watch a short video demonstration]** *(Link to your YouTube video)*.
+* **[Click here to watch a short video demonstration]** *([Link to your YouTube video](https://www.youtube.com/watch?v=tOG5r1Idgxo))*.
 * **[Click here to view the presentation slides](docs/FPV_RC_Car_Presentation.pptx)**.
 
 ---
@@ -26,7 +26,7 @@ The overall power system is stabilized using an **LM2596 Buck Converter** to iso
 
 ### **System Architecture:**
 
-![System Block Diagram](hardware/system_block_diagram.png)
+![System Block Diagram](hardware/fpv_rc_car2.drawio.png)
 
 *(Note: Ensure your block diagram image is uploaded to the `hardware/` folder)*
 
@@ -45,7 +45,7 @@ The overall power system is stabilized using an **LM2596 Buck Converter** to iso
 
 ### **Wiring Implementation:**
 
-![Wiring Diagram](hardware/wiring_diagram.png)
+![Wiring Diagram](hardware/Wiring_Diagram.png)
 
 *(Note: Ensure your wiring diagram image is uploaded to the `hardware/` folder)*
 
