@@ -89,6 +89,6 @@ To overcome the limitations of the toy-grade chassis and microcontroller power c
 
 ## Report and Presentation
 
-* Click on **[Final Project Report](docs/Final_Project_Report.docx)** to view the report that contains additional details on system architecture and testing.
+* Click on **[Final Project Report](docs/Final_Project_Report.pdf)** to view the report that contains additional details on system architecture and testing.
 
- * **[Click here to view the presentation slides] (docs/FPV RC Car Presentation.pptx)**.
+* Click on **[Presentation](docs/Final_Project_Report.docx)** to view the report that contains additional details on system architecture and testing.
